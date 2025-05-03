@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MaDHouSe79/mh-vehiclesabotage/issues">
-        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-vehiclesabotage"/> 
+    <a href="https://github.com/MH-Scripts/mh-vehiclesabotage/issues">
+        <img src="https://img.shields.io/github/issues/MH-Scripts/mh-vehiclesabotage"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-vehiclesabotage/watchers">
-        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-vehiclesabotage"/> 
+    <a href="https://github.com/MH-Scripts/mh-vehiclesabotage/watchers">
+        <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-vehiclesabotage"/> 
     </a> 
-    <a href="https://github.com/MaDHouSe79/mh-vehiclesabotage/network/members">
-        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-vehiclesabotage"/> 
+    <a href="https://github.com/MH-Scripts/mh-vehiclesabotage/network/members">
+        <img src="https://img.shields.io/github/forks/MH-Scripts/mh-vehiclesabotage"/> 
     </a>  
-    <a href="https://github.com/MaDHouSe79/mh-vehiclesabotage/stargazers">
-        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-vehiclesabotage?color=white"/> 
+    <a href="https://github.com/MH-Scripts/mh-vehiclesabotage/stargazers">
+        <img src="https://img.shields.io/github/stars/MH-Scripts/mh-vehiclesabotage?color=white"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-vehiclesabotage/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-vehiclesabotage?color=black"/> 
+    <a href="https://github.com/MH-Scripts/mh-vehiclesabotage/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MH-Scripts/mh-vehiclesabotage?color=black"/> 
     </a>      
 </p>
 
