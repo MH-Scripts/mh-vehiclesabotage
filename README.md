@@ -27,8 +27,12 @@
 - [Discord](https://discord.gg/vJ9EukCmJQ)
 
 # MH Vehicle Sabotage (OneSync Required)
-- Sabotage any vehicle brakes, any player that drive this vehicle have no brakes.
-- A player can fix the brakes if they have the items that is needed,
+- Sabotage any vehicle, cut brake lines or place a timed expolotion or a speed expolotion,
+- when you cut the brake lines this will not happen on the spot, 
+- this happends when the player drive the vehicle and use the brakes a few times and than the brake oil leaks, 
+- but beware when other players drive over this oil leak and they slip 
+- and have no control over the vehicle for a few secs because there is brake oil on the road.
+- A player can fix the vehicle if they have the items that is needed,
 - but if you set `SV_Config.UseAsJob` to true, then only players with the job can use and fix it.
 - It has 3 items, one for repare, one to cut the brakes, and one to refill the brake oil.
 
