@@ -34,7 +34,6 @@
 - and have no control over the vehicle for a few secs because there is brake oil on the road.
 - A player can fix the vehicle if they have the items that is needed,
 - but if you set `SV_Config.UseAsJob` to true, then only players with the job can use and fix it.
-- It has 3 items, one for repare, one to cut the brakes, and one to refill the brake oil.
 
 # Dependencies
 - [oxmysql](https://github.com/overextended/oxmysql/releases/tag/v1.9.3)
