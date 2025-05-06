@@ -22,9 +22,8 @@
     </a>      
 </p>
 
-# My Youtube Channel and Discord
+# My Youtube Channel
 - [Subscribe](https://www.youtube.com/c/@MaDHouSe79) 
-- [Discord](https://discord.gg/vJ9EukCmJQ)
 
 # MH Vehicle Sabotage (OneSync Required)
 - Sabotage any vehicle, cut brake lines or place a timed expolotion or a speed expolotion,
